@@ -1,0 +1,74 @@
+                                                                                                                                                                                      /* Set background color for the body */
+.external-style-body {
+    background-color: #f0e68c; /* Set background color */
+}
+
+/* Style the main heading */
+.external-h1 {
+    text-align: center; /* Center the heading */
+    color: darkblue; /* Change the text color to dark blue */
+}
+
+/* Style the navigation table */
+.external-nav-table {
+    margin: 0 auto; /* Center the table */
+    border-collapse: collapse; /* Collapse borders */
+    width: 100%; /* Full width */
+    background-color: #e0e0e0; /* Background color for the table */
+}
+
+/* Style the navigation td elements */
+.external-nav-td {
+    padding: 10px; /* Add padding to td elements */
+}
+
+/* Style the navigation anchor elements */
+.external-nav-a {
+    color: brown; /* Set link color to brown */
+    font-size: 20px; /* Set font size to 20px */
+    text-decoration: none; /* Remove underline from links */
+}
+
+/* Add other styles below as needed */
+body {
+    font-family: Arial, sans-serif; /* Example of body font style */
+    line-height: 1.6; /* Example of line height for better readability */
+}
+
+header {
+    background-color: #333; /* Example header background color */
+    color: white; /* Example header text color */
+    padding: 10px 0; /* Example padding for header */
+    text-align: center; /* Center-align header text */
+}
+
+nav table {
+    margin: 0 auto; /* Center-align the navigation table */
+}
+
+nav ul {
+    list-style-type: none; /* Remove bullet points from list */
+    padding: 0; /* Remove default padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items in a line */
+    margin-right: 20px; /* Space between navigation items */
+}
+
+section {
+    margin: 20px; /* Example margin for sections */
+    padding: 20px; /* Example padding for sections */
+    border: 1px solid #ddd; /* Example border for sections */
+    border-radius: 5px; /* Example border radius for rounded corners */
+}
+
+footer {
+    text-align: center; /* Center-align footer text */
+    padding: 10px 0; /* Example padding for footer */
+    background-color: #333; /* Example footer background color */
+    color: white; /* Example footer text color */
+    position: relative; /* Example positioning for footer */
+    bottom: 0; /* Position footer at the bottom */
+    width: 100%; /* Full width footer */
+} 
